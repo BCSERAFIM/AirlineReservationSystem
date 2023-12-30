@@ -24,3 +24,10 @@ melhor forma de pagamento dentre as disponíveis.
 | R2     | Registrar passageiro           | O cliente cadastra os passageiros         |
 | R3     | Contratar serviço              | O cliente informa a quantidade de bagagem |
 | R4     | Registrar pagamento            | O cliente informa a forma de pagamento    |
+
+## 3. Diagrama de Caso de Uso
+  ### a. Caso de uso nível 01
+  ![UC1](imgs/UC1.jpg)
+  
+  ### b. Caso de uso nível 02
+  ![UC2](imgs/UC2.jpg)
