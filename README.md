@@ -1,4 +1,7 @@
 # AirlineReservationSystem
+[![Licença](https://img.shields.io/github/license/BCSERAFIM/AirlineReservationSystem
+)](https://github.com/BCSERAFIM/AirlineReservationSystem/blob/main/LICENSE)
+
 
 ## Sistema de Reservas Aéreas Java
 Este projeto exemplar abrange todo o processo de busca, escolha e
