@@ -54,11 +54,28 @@ melhor forma de pagamento dentre as disponíveis.
   ####  8. Não deve prosseguir sem que todos os campos estejam selecionados
   ####  9. Deve Buscar a passagem
 
-  ### HU002 – Selecionar Voo
-  
+
+  ### HU002 – Selecionar Voo  
    | Sendo            | Quero                      | Para                               |
 |------------------|----------------------------|---------------------------------------|
 | Um cliente      | selecionar o voo disponível  | viajar de uma origem para um destino |
+
+#### Desenho da Tela
+![HU002](imgs/HU002.jpg)
+
+#### Critérios de aceitação:
+####  1. Deve apresentar horários disponível de voos de ida ao ingressar na tela
+####  2. Deve apresentar horários disponível de voos de volta ao ingressar na tela 
+####  3. Deve apresentar valores em reais ao ingressar na tela
+####  4. Deve apresentar simulação de valor da passagem
+####  5. Não deve prosseguir sem que todos os campos estejam selecionados
+####  6. Deve registra passagem selecionada
+
+
+### HU003 – Registrar Passageiro
+| Sendo            | Quero                      | Para                               |
+|------------------|----------------------------|---------------------------------------|
+| Um cliente      | preencher os dados dos passageiros  | viajar de uma origem para um destino |
 
 #### Desenho da Tela
 
