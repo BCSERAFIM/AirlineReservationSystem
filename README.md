@@ -78,4 +78,21 @@ melhor forma de pagamento dentre as disponíveis.
 | Um cliente      | preencher os dados dos passageiros  | viajar de uma origem para um destino |
 
 #### Desenho da Tela
+![HU003](imgs/HU003.jpg)
+
+#### Critérios de aceitação:
+####  1. Deve apresentar a quantidade de passageiro selecionado ao ingressar na tela
+####  2. Deve apresentar as nacionalidades disponíveis ao ingressar na tela
+####  3. Deve apresentar os gêneros disponíveis ao ingressar na tela
+####  4. Não deve prosseguir com campos inconsistentes
+####  5. Não deve prosseguir sem que todos os campos estejam preenchidos
+####  6. Deve registrar os passageiros
+
+### HU004 – Selecionar Assento
+| Sendo            | Quero                      | Para                               |
+|------------------|----------------------------|---------------------------------------|
+| Um cliente      | selecionar um assento na aeronave | viajar de uma origem para um destino |
+
+#### Desenho da Tela
+
 
