@@ -33,22 +33,32 @@ melhor forma de pagamento dentre as disponíveis.
   ![UC2](imgs/UC2.jpg)
 
 ## 4. Histórias de Usuário
-  ### HU001 – Buscar Passagem
+
+### HU001 – Buscar Passagem
   
   | Sendo            | Quero                      | Para                                  |
 |------------------|----------------------------|---------------------------------------|
 | Um cliente      | Comprar uma passagem aérea  | Viajar de uma origem para um destino |
 
-#### Desenho da Tela
+  #### Desenho da Tela
  ![HU001](imgs/HU001.jpg)
  
-#### Critérios de aceitação:
-####  1. Deve apresentar “saindo de” ao ingressar na tela
-####  2. Deve apresentar “chegando em” ao ingressar na tela
-####  3. Deve apresentar “data de partida” ao ingressar na tela
-####  4. Deve apresentar “data de retorno” ao ingressar na tela
-####  5. Deve apresentar “adultos” ao ingressar na tela
-####  6. Deve apresentar “crianças” ao ingressar na tela
-####  7. Deve apresentar “bebes” ao ingressar na tela
-####  8. Não deve prosseguir sem que todos os campos estejam selecionados
-####  9. Deve Buscar a passagem
+  #### Critérios de aceitação:
+  ####  1. Deve apresentar “saindo de” ao ingressar na tela
+  ####  2. Deve apresentar “chegando em” ao ingressar na tela
+  ####  3. Deve apresentar “data de partida” ao ingressar na tela
+  ####  4. Deve apresentar “data de retorno” ao ingressar na tela
+  ####  5. Deve apresentar “adultos” ao ingressar na tela
+  ####  6. Deve apresentar “crianças” ao ingressar na tela
+  ####  7. Deve apresentar “bebes” ao ingressar na tela
+  ####  8. Não deve prosseguir sem que todos os campos estejam selecionados
+  ####  9. Deve Buscar a passagem
+
+  ### HU002 – Selecionar Voo
+  
+   | Sendo            | Quero                      | Para                               |
+|------------------|----------------------------|---------------------------------------|
+| Um cliente      | selecionar o voo disponível  | viajar de uma origem para um destino |
+
+#### Desenho da Tela
+
