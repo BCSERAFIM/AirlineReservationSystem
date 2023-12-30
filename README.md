@@ -31,3 +31,13 @@ melhor forma de pagamento dentre as disponíveis.
   
   ### b. Caso de uso nível 02
   ![UC2](imgs/UC2.jpg)
+
+## 4. Histórias de Usuário
+  ### HU001 – Buscar Passagem
+  
+  | Sendo            | Quero                      | Para                                  |
+|------------------|----------------------------|---------------------------------------|
+| Um cliente      | Comprar uma passagem aérea  | Viajar de uma origem para um destino |
+
+#### Desenho da(s) Tela(s)
+ ![HU001](imgs/Compra de passagem 01.jpg)
