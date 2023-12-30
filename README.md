@@ -96,4 +96,18 @@ melhor forma de pagamento dentre as disponíveis.
 #### Desenho da Tela
 ![HU004](imgs/HU004.jpg)
 
+#### Critérios de aceitação:
+####  1. Deve apresentar dados de ida origem e destino ao ingressar na tela
+####  2. Deve apresentar número e dados do voo ao ingressar na tela
+####  3. Deve apresentar os passageiros cadastrado ao ingressar na tela
+####  4. Deve apresentar os assentos do voo com a situação ao ingressar na tela
+####  5. Não deve prosseguir sem que selecione um item
+####  6. Deve registrar os assentos selecionados
+
+### HU005 – Contratar Serviço
+| Sendo            | Quero                      | Para                               |
+|------------------|----------------------------|---------------------------------------|
+| Um cliente      | despachar bagagem | viajar de uma origem para um destino |
+
+#### Desenho da Tela
 
