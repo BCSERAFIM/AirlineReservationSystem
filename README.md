@@ -157,4 +157,7 @@ melhor forma de pagamento dentre as disponíveis.
 ####  9. Deve interromper a compra
 
 ## 5. Diagrama de Classe
-![Diagrama de Classe]()
+![Diagrama Classe](imgs/DiagramaDeClasse.jpg)
+
+## 6.  Diagrama de Sequência
+![Diagrama Sequência](imgs/DiagramaDeSequencia.jpg)
