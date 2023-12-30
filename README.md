@@ -105,9 +105,56 @@ melhor forma de pagamento dentre as disponíveis.
 ####  6. Deve registrar os assentos selecionados
 
 ### HU005 – Contratar Serviço
-| Sendo            | Quero                      | Para                               |
+| Sendo            | Quero                      | Para                                  |
 |------------------|----------------------------|---------------------------------------|
-| Um cliente      | despachar bagagem | viajar de uma origem para um destino |
+| Um cliente       | despachar bagagem          | viajar de uma origem para um destino  |
 
 #### Desenho da Tela
+![HU005](imgs/HU005.jpg)
 
+#### Critérios de aceitação:
+####  1. Deve apresentar dados de ida origem e destino ao ingressar na tela
+####  2. Deve apresentar dados de volta origem e destino ao ingressar na tela
+####  3. Deve apresentar regras de bagagem ao ingressar na tela
+####  4. Deve apresentar os passageiros registrado ao ingressar na tela
+####  5. Deve apresentar bagagem de mão ao ingressar na tela
+####  6. Deve apresentar bagagens despachadas ao ingressar na tela
+####  7. Deve registrar as bagagens inseridas
+
+### HU006 – Registrar Pagamento
+| Sendo            | Quero                           | Para                                  |
+|------------------|---------------------------------|---------------------------------------|
+| Um cliente       | Selecionar a forma de pagamento | viajar de uma origem para um destino  |
+
+#### Desenho da Tela
+![HU006](imgs/HU006.jpg)
+
+#### Critérios de aceitação:
+####  1. Deve apresentar país de residência ao ingressar na tela
+####  2. Deve apresentar CEP ao ingressar na tela
+####  3. Deve apresentar forma de pagamentos disponíveis ao ingressar na tela
+####  4. Não deve prosseguir com inconsistência
+####  5. Não deve prosseguir sem campos preenchidos e selecionado
+####  6. Deve registrar a forma de pagamento
+
+### HU007 – Confirmar
+| Sendo            | Quero                           | Para                                  |
+|------------------|---------------------------------|---------------------------------------|
+| Um cliente       | finalizar a compra da passagem  | viajar de uma origem para um destino  |
+
+#### Desenho da Tela
+![HU007](imgs/HU007.jpg)
+
+#### Critérios de aceitação:
+####  1. Deve apresentar dados de voo de ida ao ingressar na tela
+####  2. Deve apresentar dados de voo de volta ao ingressar na tela
+####  3. Deve apresentar valor das passagens dos passageiros ao ingressar na tela
+####  4. Deve apresentar valor da taxa de serviço ao ingressar na tela
+####  5. Deve apresentar total a pagar ao ingressar na tela
+####  6. Deve apresentar opção de pagamento ao ingressar na tela
+####  7. Deve efetivar a compra
+####  8. Deve voltar a tela anterior
+####  9. Deve interromper a compra
+
+## 5. Diagrama de Classe
+![Diagrama de Classe]()
