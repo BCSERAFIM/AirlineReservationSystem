@@ -94,5 +94,6 @@ melhor forma de pagamento dentre as disponíveis.
 | Um cliente      | selecionar um assento na aeronave | viajar de uma origem para um destino |
 
 #### Desenho da Tela
+![HU004](imgs/HU004.jpg)
 
 
